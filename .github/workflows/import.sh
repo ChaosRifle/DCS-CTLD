@@ -84,7 +84,7 @@ cd "$OUTPUT_DIR"
 echo "Files that will be pushed:"
 ls -la
 
-COMMIT_MESSAGE="pulled mist from official repo on $(date)"
+COMMIT_MESSAGE="pulled CTLD from official repo on $(date)"
 
 echo "Set directory is safe ($OUTPUT_DIR)"
 # Related to https://github.com/cpina/github-action-push-to-another-repository/issues/64
