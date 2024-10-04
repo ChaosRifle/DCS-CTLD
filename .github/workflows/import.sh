@@ -15,10 +15,10 @@ GIT_SERVER="github.com"
 USER_NAME="ChaosRifle"
 USER_EMAIL="ChaosBuildScript@CBS.ca"
 
-THIS_REPO="DCS-MIST"
-IMPORT_REPO_OWNER="mrSkortch"
-IMPORT_REPO="MissionScriptingTools"
-FILE="mist.lua"
+THIS_REPO="DCS-CTLD"
+IMPORT_REPO_OWNER="ciribob"
+IMPORT_REPO="DCS-CTLD"
+FILE="CTLD.lua"
 
 UPLOAD_BRANCH_TARGET="import"
 
